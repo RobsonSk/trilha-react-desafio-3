@@ -31,6 +31,7 @@ const Login = () => {
             alert('Usuário ou senha inválido')
         }catch(e){
             //TODO: HOUVE UM ERRO
+            
         }
     };
 
